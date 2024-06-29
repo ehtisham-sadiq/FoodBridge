@@ -6,7 +6,7 @@ import { useHistory } from "react-router-dom";
 import { useHttpClient } from '../hooks/http-hook';
 import { Button, Modal, Carousel } from 'react-bootstrap';
 import moment from 'moment';
-import image7 from '../images/image7.png';
+import image7 from '../images/image7_7.jpg';
 import image8 from '../images/image88.jpg';
 import MapNew from "../components/MapNew";
 require('dotenv').config();
@@ -153,11 +153,13 @@ function Donate() {
             className="d-block w-100"
             src={image7}
             alt="First slide"
+            height={650}
+            width={650}
           />
           <Carousel.Caption>
             <h1 className="fs-1 fw-bold">OUR MISSION</h1>
             <h2 className="fs-1 fw-bold">
-              Make India Hunger Free
+              Make Pakistan Hunger Free
             </h2>
           </Carousel.Caption>
         </Carousel.Item>

@@ -22,7 +22,7 @@ function Home() {
                     <Carousel.Caption>
                         <h1 className="fs-1 fw-bold">BECOME A HUNGER HERO</h1>
                         <h2 className="fs-1 fw-bold">
-                            We are serving cooked meals to people in need daily through our NGO partners across India
+                            We are serving cooked meals to people in need daily through our NGO partners across Pakistan
                         </h2>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -36,7 +36,7 @@ function Home() {
                         <h1 className="fs-1 fw-bold">FEED EVERY CHILD</h1>
                         <h2 className="fs-1 fw-bold mb-5">
                             Reliable food and nutrition for underserved
-                            children across India.
+                            children across Pakistan.
                         </h2>
                     </Carousel.Caption>
                 </Carousel.Item>
